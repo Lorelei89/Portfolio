@@ -66,6 +66,12 @@
 #content5-27 .mbr-article {
   color: #fff;
 }
+#content5-27 .mbr-article H2 {
+  text-align: center;
+}
+#content5-27 .mbr-article H3 {
+  text-align: center;
+}
 #dropdown-menu-12 .hide-buttons [data-button] {
   display: none !important;
 }
